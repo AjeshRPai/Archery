@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Archery</string>
+    <string name="sign_up">Sign Up</string>
+
+    <string name="invalid_mail">Invalid Mail</string>
+    <string name="invalid_phone_number">Invalid Phone Number</string>
+    <string name="mail">Email</string>
+    <string name="phone_number">Mobile</string>
+</resources>
